@@ -1,47 +1,58 @@
 <div align="center">
 
-# 👋 Olá, eu sou Lucas Soares
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Lucas+Soares;Software+Developer;Python+•+Java+•+JavaScript;Always+Building.+Always+Learning." />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&color=58A6FF&lines=Software+Developer;Python+%7C+Java+%7C+JavaScript;Always+Learning+New+Technologies" />
+<br>
+
+<a href="https://www.linkedin.com/in/olucassoares/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:olucaspsoares@outlook.com">
+<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=olucassoares&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
 ---
 
-## 💻 Sobre mim
+# 👋 About Me
 
-🎓 Estudante de Desenvolvimento de Software.
+I'm a **Software Development Student** passionate about technology, software engineering and problem solving.
 
-Sou apaixonado por tecnologia e programação. Atualmente estou focado em desenvolver minhas habilidades em desenvolvimento back-end e front-end, buscando criar aplicações eficientes, escaláveis e bem estruturadas.
-
-Atualmente estudo:
+Currently focused on building strong foundations in:
 
 - 🐍 Python
 - ☕ Java
 - 🟨 JavaScript
-- 🌱 Desenvolvimento Web
-- 📚 Estruturas de Dados
-- ⚙️ Algoritmos
+- 🌐 Web Development
+- 🗄️ Databases
+- 📚 Data Structures
+- ⚙️ Algorithms
 
-Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor de Software e continuar evoluindo diariamente.
+🎯 **Goal**
 
----
-
-## 🚀 Tecnologias
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,git,github,vscode,mysql"/>
-
-</p>
+Become a Software Developer by building real-world projects, continuously improving my skills and contributing to impactful software solutions.
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Tech Stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=olucassoares&show_icons=true&theme=github_dark&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,git,github,vscode,mysql"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=olucassoares&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olucassoares&layout=compact&theme=github_dark&hide_border=true"/>
 
@@ -49,7 +60,7 @@ Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor de Sof
 
 ---
 
-## 🔥 Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -59,7 +70,7 @@ Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor de Sof
 
 ---
 
-## 📈 Contribuições
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -69,51 +80,60 @@ Meu objetivo é conquistar minha primeira oportunidade como Desenvolvedor de Sof
 
 ---
 
-## 📌 Projetos em destaque
+# 🏆 Current Projects
 
-Em breve você encontrará aqui alguns projetos desenvolvidos durante meus estudos.
+🚧 Portfolio Website
 
-✔ Sistema em Java
+🚧 Java School Management System
 
-✔ API em Python
+🚧 Python REST API
 
-✔ Projeto JavaScript
-
-✔ Portfólio Web
+🚧 JavaScript Dashboard
 
 ---
 
-## 🎯 Objetivos para 2026
+# 📚 Currently Learning
 
-- Aprimorar Python
-- Aprimorar Java
-- Aprender Spring Boot
-- Aprender React
-- Desenvolver projetos completos
-- Conseguir minha primeira oportunidade como Desenvolvedor
+- Spring Boot
+- React
+- REST APIs
+- Object-Oriented Programming
+- Clean Code
+- Software Architecture
 
 ---
 
-## 📫 Contato
+# 🎯 2026 Goals
 
-<p align="center">
+- Build complete Full Stack projects
+- Master Java and Python
+- Learn Spring Boot
+- Learn React
+- Improve Data Structures & Algorithms
+- Land my first Software Developer position
+
+---
+
+# 📫 Connect with Me
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/olucassoares/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:olucaspsoares@outlook.com">
-<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook"/>
+<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Obrigado por visitar meu perfil!
+### ⭐ Thanks for visiting my profile!
 
-*"A melhor forma de prever o futuro é criá-lo."*
+*"The best way to predict the future is to create it."*
 
 </div>
