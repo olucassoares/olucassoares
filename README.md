@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/olucassoares/olucassoares/main/banner-github.png" alt="Lucas Soares Banner" width="100%">
+</p>
+<p align="center">
 <img src="SEU_BANNER_AQUI" width="100%">
 </p>
 
