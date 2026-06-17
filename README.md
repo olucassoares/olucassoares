@@ -1,13 +1,15 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/olucassoares/olucassoares/main/banner-github.png" alt="Lucas Soares Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/olucassoares/olucassoares/main/banner-github.png" width="100%" alt="Lucas Soares Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Lucas Soares</h1>
 
-<h3 align="center">Software Development Student | Python • Java • JavaScript</h3>
+<h3 align="center">
+Software Development Student | Python • Java • JavaScript
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer;Python+%7C+Java+%7C+JavaScript;Always+Building.+Always+Learning." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer;Python+•+Java+•+JavaScript;Always+Building.+Always+Learning." />
 </p>
 
 <p align="center">
@@ -18,31 +20,27 @@
   <a href="mailto:olucaspsoares@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
   </a>
-
-  <img src="https://komarev.com/ghpvc/?username=olucassoares&style=for-the-badge&color=0e75b6"/>
 </p>
 
 ---
 
 # 💻 About Me
 
-I'm a **Software Development Student** from Brazil passionate about technology, software engineering and solving real-world problems.
+I'm a **Software Development Student** from Brazil passionate about technology, software engineering and problem solving.
 
-Currently focused on improving my skills in **Back-end** and **Front-end Development**, always writing clean, scalable and maintainable code.
+Currently focused on improving my skills in **Back-end** and **Front-end Development**, always building clean, scalable and maintainable applications.
 
 - 🎓 Software Development Student
-- 💡 Passionate about Technology
-- 🌱 Currently learning Spring Boot and React
+- 💻 Passionate about Software Engineering
 - 🚀 Looking for my first opportunity as a Software Developer
+- 📚 Constantly learning and building projects
 
 ---
 
 # 🚀 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,git,github,vscode"/>
-
 </p>
 
 ---
@@ -50,8 +48,11 @@ Currently focused on improving my skills in **Back-end** and **Front-end Develop
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=olucassoares&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olucassoares&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=olucassoares&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olucassoares&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 ---
@@ -82,38 +83,52 @@ Currently focused on improving my skills in **Back-end** and **Front-end Develop
 
 # 📌 Featured Projects
 
-> These projects are currently under development and will be available soon.
+🚧 **Client Management System**
 
-- 💼 Client Management System (Java)
-- 🐍 Python REST API
-- 📊 JavaScript Dashboard
-- 🌐 Personal Portfolio Website
+Java • MySQL • CRUD
 
 ---
 
-# 📚 Currently Learning
+🚧 **Python REST API**
 
-- ☕ Java
-- 🐍 Python
-- 🟨 JavaScript
-- 🌱 Spring Boot
-- ⚛️ React
-- 🗄️ MySQL
-- 📚 Data Structures
-- ⚙️ Algorithms
-- 🧹 Clean Code
+Flask • Authentication • CRUD
+
+---
+
+🚧 **JavaScript Dashboard**
+
+HTML • CSS • JavaScript
+
+---
+
+🚧 **Personal Portfolio**
+
+Responsive Portfolio Website
+
+---
+
+# 📚 Learning Journey
+
+| Area | Technologies |
+|------|--------------|
+| Backend | Java, Python |
+| Frontend | JavaScript, HTML, CSS |
+| Frameworks | Spring Boot, React |
+| Database | MySQL |
+| Tools | Git, GitHub, VS Code |
+| Concepts | Clean Code, OOP, Data Structures, Algorithms |
 
 ---
 
 # 🎯 Goals for 2026
 
-- ✅ Build complete Full Stack projects
-- ✅ Master Java
-- ✅ Master Python
-- ✅ Learn Spring Boot
-- ✅ Learn React
-- ✅ Improve Data Structures & Algorithms
-- ✅ Get my first Software Developer position
+- Build complete Full Stack projects
+- Master Java
+- Master Python
+- Learn Spring Boot
+- Learn React
+- Improve Algorithms & Data Structures
+- Get my first Software Developer position
 
 ---
 
@@ -133,10 +148,10 @@ Currently focused on improving my skills in **Back-end** and **Front-end Develop
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ **Thanks for visiting my profile!**
+### ⭐ Thanks for visiting my profile!
 
 *"The best way to predict the future is to create it."*
 
-</p>
+</div>
