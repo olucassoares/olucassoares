@@ -1,118 +1,109 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/olucassoares/olucassoares/main/banner-github.png" width="100%" alt="Lucas Soares Banner"/>
-</p>
+<div align="center">
 
-<h1 align="center">Lucas Soares</h1>
+# Lucas Soares
 
-<h3 align="center">
-Software Development Student | Python • Java • JavaScript
-</h3>
+### Desenvolvedor Full Stack em formação | Estudante de ADS na PUCPR
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer;Python+%7C+Java+%7C+JavaScript;Always+Building.+Always+Learning." />
-</p>
+Desenvolvendo aplicações web e transformando problemas reais em soluções com código.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/olucassoares/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Soares-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/olucassoares/)
 
-  <a href="mailto:olucaspsoares@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
-  </a>
-</p>
-
-## 💻 About Me
-
-I'm a **Software Development Student** from Brazil passionate about building software and solving real-world problems.
-
-Currently focused on improving my skills in **Back-end** and **Front-end Development**, creating practical projects with **Java**, **Python**, and **JavaScript** while following clean code and software engineering best practices.
-
-🎯 **Career Objective**
-
-Become a Software Developer by building scalable applications, contributing to impactful projects and continuously improving my technical skills.
+</div>
 
 ---
 
-## 🚀 Tech Stack
+## Sobre mim
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,git,github,vscode" />
-</p>
+Sou estudante de Análise e Desenvolvimento de Sistemas na PUCPR e estou construindo minha carreira como Desenvolvedor Full Stack.
 
----
+Atualmente desenvolvo projetos com JavaScript, Node.js, HTML e CSS, enquanto aprofundo meus conhecimentos em React, PostgreSQL, SQL e APIs REST.
 
-## 📊 GitHub Analytics
+Minha experiência profissional nas áreas contábil, comercial e de estoque contribuiu para o desenvolvimento de competências como análise de dados, organização, atenção aos detalhes, compreensão de regras de negócio e resolução de problemas.
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=olucassoares&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olucassoares&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+Busco uma oportunidade de estágio ou posição inicial em Desenvolvimento de Software.
 
 ---
 
-## 📈 Contribution Graph
+## Tecnologias
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=olucassoares&theme=github-dark&hide_border=true"/>
-</p>
+### Utilizadas em projetos
 
----
+- JavaScript
+- Node.js
+- HTML5
+- CSS3
+- Git
+- GitHub
 
-## 📌 Featured Projects
+### Atualmente estudando
 
-These projects are currently under development and will be available soon.
-
-- 💼 Client Management System (Java)
-- 🐍 Python REST API
-- 📊 JavaScript Dashboard
-- 🌐 Personal Portfolio Website
-
----
-
-## 📚 Learning Journey
-
-| Area | Technologies |
-|------|--------------|
-| Backend | Java, Python |
-| Frontend | JavaScript, HTML, CSS |
-| Frameworks | Spring Boot, React |
-| Database | MySQL |
-| Tools | Git, GitHub, VS Code |
-| Concepts | OOP, Clean Code, REST APIs, Data Structures, Algorithms |
+- React
+- PostgreSQL
+- SQL
+- APIs REST
+- Java
 
 ---
 
-## 🎯 Career Goals
+## Projetos em destaque
 
-- Build complete Full Stack applications
-- Master Java and Python
-- Learn Spring Boot
-- Learn React
-- Improve Data Structures & Algorithms
-- Contribute to Open Source projects
-- Start my career as a Software Developer
+### Sistema de Clientes e Atendimentos
 
----
+Aplicação web para gerenciamento de clientes e acompanhamento de atendimentos.
 
-## 📫 Connect with Me
+**Principais funcionalidades:**
 
-<p align="center">
+- Autenticação de usuários
+- Cadastro, edição e exclusão de clientes
+- Registro de atendimentos
+- Filtros e validação de dados
+- Rotas protegidas
+- Dashboard de indicadores
 
-<a href="https://www.linkedin.com/in/olucassoares/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+**Tecnologias:** JavaScript, Node.js, HTML, CSS e JSON.
 
-<a href="mailto:olucaspsoares@outlook.com">
-<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
-</a>
-
-</p>
+[Ver repositório](https://github.com/olucassoares/sistema-clientes-atendimentos)
 
 ---
 
-<p align="center">
-<strong>Thanks for visiting my profile!</strong>
+### Dashboard de Vendas e Estoque
 
-<i>"The best way to predict the future is to create it."</i>
-</p>
+Dashboard desenvolvido para análise de indicadores comerciais e controle de estoque.
+
+**Principais indicadores:**
+
+- Faturamento
+- Ticket médio
+- Quantidade de vendas
+- Produtos mais vendidos
+- Produtos com estoque baixo
+
+**Tecnologias:** JavaScript, HTML e CSS.
+
+[Ver repositório](https://github.com/olucassoares/dashboard-vendas-estoque)
+
+---
+
+## Próximos objetivos
+
+- Evoluir o Sistema de Clientes para React e PostgreSQL
+- Desenvolver uma API REST estruturada com Node.js
+- Adicionar testes automatizados aos projetos
+- Publicar demonstrações online
+- Contribuir com projetos open source
+- Conquistar minha primeira oportunidade em Desenvolvimento de Software
+
+---
+
+## Contato
+
+- LinkedIn: [linkedin.com/in/olucassoares](https://www.linkedin.com/in/olucassoares/)
+- GitHub: [github.com/olucassoares](https://github.com/olucassoares)
+
+---
+
+<div align="center">
+
+Obrigado pela visita!
+
+</div>
